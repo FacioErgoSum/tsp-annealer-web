@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tsp-annealer-web/static/css/main.de67246a.css",
-    "main.js": "/tsp-annealer-web/static/js/main.77960155.js",
+    "main.js": "/tsp-annealer-web/static/js/main.48ab6b02.js",
     "index.html": "/tsp-annealer-web/index.html",
     "main.de67246a.css.map": "/tsp-annealer-web/static/css/main.de67246a.css.map",
-    "main.77960155.js.map": "/tsp-annealer-web/static/js/main.77960155.js.map"
+    "main.48ab6b02.js.map": "/tsp-annealer-web/static/js/main.48ab6b02.js.map"
   },
   "entrypoints": [
     "static/css/main.de67246a.css",
-    "static/js/main.77960155.js"
+    "static/js/main.48ab6b02.js"
   ]
 }
