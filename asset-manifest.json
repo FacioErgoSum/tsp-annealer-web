@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tsp-annealer-web/static/css/main.7082760c.css",
+    "main.js": "/tsp-annealer-web/static/js/main.32d1da3f.js",
+    "index.html": "/tsp-annealer-web/index.html",
+    "main.7082760c.css.map": "/tsp-annealer-web/static/css/main.7082760c.css.map",
+    "main.32d1da3f.js.map": "/tsp-annealer-web/static/js/main.32d1da3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7082760c.css",
+    "static/js/main.32d1da3f.js"
+  ]
+}
